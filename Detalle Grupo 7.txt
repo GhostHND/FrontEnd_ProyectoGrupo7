@@ -1,9 +1,3 @@
-LINK DE REPOSITORIO DE GITHUB API
-https://github.com/Gamaliel96/tienda_api.git
-LINK DE REPOSITORIO DE GITHUB UI
-https://github.com/Gamaliel96/tienda_ui.git
-
-
 Grupo 7 Tienda
 Sofia Gissell Lagos 0801200210963
 Alma Leticia Douglas Gonzales Guilbert 0801200508626
@@ -12,7 +6,4 @@ César Augusto Herrera Flores 0501200100439
 Bessy Carolina Guevara Leiva 0704199900555
 Roger Leonardo Aroca Godoy 07032000000641
 Daniel Eduardo Cruz Nuñez 0703199900720
-
-LINK YOUTUBE
-https://youtu.be/OMcZXKjpRX8
 
